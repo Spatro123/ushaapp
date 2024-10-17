@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.701fa808.css",
+    "main.js": "/static/js/main.870ab865.js",
+    "static/js/453.ed3810f9.chunk.js": "/static/js/453.ed3810f9.chunk.js",
+    "static/media/home_page.jpg": "/static/media/home_page.08948c3721323f00eda9.jpg",
+    "static/media/us.png": "/static/media/us.7eeee474058efb43384a.png",
+    "static/media/usha.png": "/static/media/usha.f4f2ab2a1f2fb3cce699.png",
+    "static/media/cm.png": "/static/media/cm.cfa3f6d0aa750520e592.png",
+    "static/media/um.png": "/static/media/um.8194ab75824b3436314f.png",
+    "static/media/elctric1.png": "/static/media/elctric1.2ba9826756054597d04f.png",
+    "static/media/orissalogo.png": "/static/media/orissalogo.319630cf461c42594d0e.png",
+    "static/media/odisha.png": "/static/media/odisha.058989a21327853e9469.png",
+    "static/media/boy.png": "/static/media/boy.1dbf553e0a82d03a7ce2.png",
+    "static/media/tpdocl.png": "/static/media/tpdocl.0015a397922ce45b4300.png",
+    "static/media/Stencil Std Bold.ttf": "/static/media/Stencil Std Bold.64d1a04fcdd937bee2ab.ttf",
+    "static/media/card.png": "/static/media/card.e80cf3d3017c49cc6529.png",
+    "static/media/upi.png": "/static/media/upi.ed1e12a512fc1779eccb.png",
+    "static/media/search.png": "/static/media/search.cadee8cdb0c0afb1a713.png",
+    "index.html": "/index.html",
+    "main.701fa808.css.map": "/static/css/main.701fa808.css.map",
+    "main.870ab865.js.map": "/static/js/main.870ab865.js.map",
+    "453.ed3810f9.chunk.js.map": "/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.701fa808.css",
+    "static/js/main.870ab865.js"
+  ]
+}
